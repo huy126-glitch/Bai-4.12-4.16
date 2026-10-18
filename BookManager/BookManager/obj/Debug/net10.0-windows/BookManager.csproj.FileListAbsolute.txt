@@ -1,0 +1,17 @@
+D:\Bai 4.12-4.16\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.exe
+D:\Bai 4.12-4.16\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.deps.json
+D:\Bai 4.12-4.16\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.runtimeconfig.json
+D:\Bai 4.12-4.16\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.dll
+D:\Bai 4.12-4.16\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.pdb
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.Form1.resources
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.csproj.GenerateResource.cache
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.AssemblyInfoInputs.cache
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.AssemblyInfo.cs
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.csproj.CoreCompileInputs.cache
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.dll
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\refint\BookManager.dll
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.pdb
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.genruntimeconfig.cache
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\ref\BookManager.dll
+D:\Bai 4.12-4.16\BookManager\BookManager\obj\Debug\net10.0-windows\BookMana.811100A4.Up2Date

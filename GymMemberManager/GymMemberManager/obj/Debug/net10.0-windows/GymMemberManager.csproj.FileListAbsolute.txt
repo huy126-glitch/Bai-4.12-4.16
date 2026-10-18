@@ -1,0 +1,17 @@
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.exe
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.deps.json
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.runtimeconfig.json
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.dll
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\bin\Debug\net10.0-windows\GymMemberManager.pdb
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.Form1.resources
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.csproj.GenerateResource.cache
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.AssemblyInfoInputs.cache
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.AssemblyInfo.cs
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.csproj.CoreCompileInputs.cache
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.dll
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\refint\GymMemberManager.dll
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.pdb
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMemberManager.genruntimeconfig.cache
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\ref\GymMemberManager.dll
+D:\Bai 4.12-4.16\GymMemberManager\GymMemberManager\obj\Debug\net10.0-windows\GymMembe.558276D9.Up2Date
